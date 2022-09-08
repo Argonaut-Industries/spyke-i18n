@@ -22,7 +22,7 @@
             "desc": "Ver las marcas de splatoon 2 y sus habilidades comunes/no comunes"
         },
         "hs": {
-            "name": "Escondidas 2",
+            "name": "escondidas2",
             "desc": "Ver las reglas del juego de las escondidas",
             "hs_rules": "**REGLAS:**\nAlfa o el equipo más pequeño = se oculta\nBravo o el equipo mas grande = Busca\n\n<:hs1:373194237837312000> 1min para equipos desiguales (o 45s para escenarios grandes como las torres)\n<:hs1:373194237837312000> 45s para equipos iguales (o 30s para escenarios grandes como las torres)\n<:hs1:373194237837312000> No secundarias ni especiales\n<:hs1:373194237837312000> Sin mapa (por tanto no supersalto)\n<:hs1:373194237837312000> Los que se ocultan ganan si se agota el tiempo y no todos han sido reventados\n<:hs1:373194237837312000> Buscadores ganan si revientan a todos los ocultos\n<:hs1:373194237837312000> Las muertes durante el periodo de ocultarse no cuentan\n<:hs1:373194237837312000> Cualquier buscador que muera puede continuar\n<:hs1:373194237837312000> Cualquier oculto que muera queda fuera y solo puede regresar a espectar"
         },
